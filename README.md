@@ -1,4 +1,4 @@
-# PydanticAIAgent
+# PydanticAI Agent
 
 Welcome to the **PydanticAIAgent** project! This repository provides a streamlined way to build and deploy AI agents leveraging PydanticAI and Docker.
 
